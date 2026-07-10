@@ -137,6 +137,14 @@ const CLIENTES = {
 
   "512/1": [{ nome: 'Escolas Fontes Pereira de Melo',                  fat: 'Agrupamento de Escolas Fontes Pereira de Melo',        lat: 41.16410911137412,   lng: -8.643245926728076,  notas: '' }],
   "512/2": [{ nome: 'Escola M. Lamas',                                 fat: 'Agrupamento de Escolas Fontes Pereira de Melo',        lat: 41.16980968785941,   lng: -8.63342871724944,   notas: '' }],
+  "512/3": [{ nome: 'Escola F. Pereira de Melo',                       fat: 'Agrupamento de Escolas Fontes Pereira de Melo',        lat: 41.16411151550268,   lng: -8.643246740382265,  notas: '' }],
+
+  // ── Novos clientes adicionados ──────────────────────────────
+  "474":   [{ nome: 'Hospital Pedro Hispano',                          fat: 'Meeting Point II',                                     lat: 41.18176633626702,   lng: -8.662729636264036,  notas: '' }],
+  "626":   [{ nome: 'Verdade Café',                                    fat: 'Maison Gourmet',                                       lat: 41.18041123333308,   lng: -8.604160578235815,  notas: '' }],
+  "674":   [{ nome: 'Sheraton Matosinhos',                             fat: 'MERCAN PROPERTIES, S.A. - Mercan Properties',          lat: 41.17647845955644,   lng: -8.688490032694451,  notas: '' }],
+  "761":   [{ nome: 'Mercan Properties-Hotel Origine Porto Gaia',      fat: 'MERCAN PROPERTY PANORAMIC, LDA',                       lat: 41.13701924885161,   lng: -8.611026215877402,  notas: '' }],
+  "566":   [{ nome: 'Exe Almada Porto',                                fat: 'Sociedade Hoteleira da Rua do Rosário Lda',            lat: 41.15014586146454,   lng: -8.612197992412966,  notas: '' }],
 
 };
 // ─────────────────────────────────────────────────────────────
