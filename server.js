@@ -135,9 +135,10 @@ const CLIENTES = {
   "769":   [{ nome: 'BessaHotel Boavista',                            fat: 'BessaHotel Boavista',                                  lat: 41.16236965822079,   lng: -8.644997782383529,  notas: '' }],
   "774":   [{ nome: 'Rodrigues, Costa & Pereira, Lda',               fat: 'Rodrigues, Costa & Pereira, Lda',                      lat: 41.1493820387825,    lng: -8.607123476404336,  notas: '' }],
 
-  "512/1": [{ nome: 'Escolas Fontes Pereira de Melo',                  fat: 'Agrupamento de Escolas Fontes Pereira de Melo',        lat: 41.16410911137412,   lng: -8.643245926728076,  notas: '' }],
-  "512/2": [{ nome: 'Escola M. Lamas',                                 fat: 'Agrupamento de Escolas Fontes Pereira de Melo',        lat: 41.16980968785941,   lng: -8.63342871724944,   notas: '' }],
-  "512/3": [{ nome: 'Escola F. Pereira de Melo',                       fat: 'Agrupamento de Escolas Fontes Pereira de Melo',        lat: 41.16411151550268,   lng: -8.643246740382265,  notas: '' }],
+  "512": [
+    { nome: 'Escolas Fontes Pereira de Melo',                          fat: 'Agrupamento de Escolas Fontes Pereira de Melo',        lat: 41.16410911137412,   lng: -8.643245926728076,  notas: '' },
+    { nome: 'Escola M. Lamas',                                         fat: 'Agrupamento de Escolas Fontes Pereira de Melo',        lat: 41.16980968785941,   lng: -8.63342871724944,   notas: '' },
+  ],
 
   // ── Novos clientes adicionados ──────────────────────────────
   "474":   [{ nome: 'Hospital Pedro Hispano',                          fat: 'Meeting Point II',                                     lat: 41.18176633626702,   lng: -8.662729636264036,  notas: '' }],
