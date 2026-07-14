@@ -117,7 +117,7 @@ const CLIENTES = {
   "661":   [{ nome: 'SERRA LUMINOSA LDA',                             fat: 'SERRA LUMINOSA LDA',                                   lat: 41.15294312100275,   lng: -8.62261304263632,   notas: '' }],
   "664":   [{ nome: 'LQP BAIXA UNIPESSOAL LDA',                       fat: 'LQP BAIXA UNIPESSOAL LDA',                             lat: 41.147722963288174,  lng: -8.61493132341469,   notas: '' }],
   "665":   [{ nome: 'MERCADO BOM SUCESSO',                            fat: 'LQP MBS UNIPESSOAL LDA',                               lat: 41.1554855550289,    lng: -8.629202794971429,  notas: '' }],
-  "672":   [{ nome: 'Confeitaria Giesta',                              fat: 'SURPRESA IDEAL LDA',                                   lat: 41.19038180938719,   lng: -8.580048995182205,  notas: '' }],
+  "672":   [{ nome: 'Confeitaria Giesta',                             fat: 'SURPRESA IDEAL LDA',                                   lat: 41.19038180938719,   lng: -8.580048995182205,  notas: '' }],
   "686":   [{ nome: 'HOTEL D.HENRIQUE',                               fat: 'SOC GESTORA INICIATIVAS FINANCEIRAS SOGIN SA',         lat: 41.15226359263881,   lng: -8.607091412366056,  notas: '' }],
   "689":   [{ nome: 'HOTEL CIDADE DE ÉVORA',                          fat: 'HOTEL CIDADE DE ÉVORA, UNIPESSOAL LD',                 lat: 41.44649643120495,   lng: -8.29639619468428,   notas: '' }],
   "708":   [{ nome: 'Caqui Brunch Bar',                               fat: 'FAROL AMBRINO - UNIPESSOAL LDA',                       lat: 41.199428126118285,  lng: -8.710711974355819,  notas: '' }],
@@ -133,7 +133,9 @@ const CLIENTES = {
   "763":   [{ nome: 'PONTO 2',                                        fat: 'SONIA LERMA UNIPESSOAL LDA',                           lat: 41.16069970849237,   lng: -8.628072303761606,  notas: '' }],
   "768":   [{ nome: 'TROCA CERTA LDA',                                fat: 'TROCA CERTA LDA',                                      lat: 41.1520371589841,    lng: -8.677593900195328,  notas: '' }],
   "769":   [{ nome: 'BessaHotel Boavista',                            fat: 'BessaHotel Boavista',                                  lat: 41.16236965822079,   lng: -8.644997782383529,  notas: '' }],
-  "774":   [{ nome: 'Rodrigues, Costa & Pereira, Lda',               fat: 'Rodrigues, Costa & Pereira, Lda',                      lat: 41.1493820387825,    lng: -8.607123476404336,  notas: '' }],
+  "774":   [{ nome: 'Rodrigues, Costa & Pereira, Lda',                fat: 'Rodrigues, Costa & Pereira, Lda',                      lat: 41.1493820387825,    lng: -8.607123476404336,  notas: '' }],
+  "779":   [{ nome: '7 Gaia Roaster Apartments Lda',                  fat: '7 Gaia Roaster Apartments Lda',                        lat: 41.136960372741825,  lng: -8.613912559667163,  notas: '' }],
+
 
   "512": [
     { nome: 'Escolas Fontes Pereira de Melo',                          fat: 'Agrupamento de Escolas Fontes Pereira de Melo',        lat: 41.16410911137412,   lng: -8.643245926728076,  notas: '' },
